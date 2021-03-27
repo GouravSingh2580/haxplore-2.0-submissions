@@ -9,7 +9,7 @@ the online hackathon conducted by Codefest, the annual departmental fest of the 
 * [_Himanshu Tiwari_](https://github.com/himanshutiwari15)
 * [_Anshul Kansal_](https://github.com/anshulkansal121)
 
-# _D-Talk_
+# [_D-Talk_](https://d-talk.herokuapp.com/)
 #### Tagline - You've got questions, we've got answers.
 
 ## Overview
