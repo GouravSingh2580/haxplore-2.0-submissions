@@ -1,4 +1,4 @@
-# HaXplore 2.0 - Submission Report Format
+# HaXplore 2.0 - Submission Report
 
 This is the official code repository for _The Comrades_ . This _web app_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of the Computer Science department, IIT BHU Varanasi.
@@ -46,27 +46,27 @@ This Web App is available for everyone. In general, people face problems like ge
 🔷 Giving Moderators More Accessibility Permissions.
 
 
-#### Technology used
+### 🔶 Technology used
 
 To handle multiple threads over various chat rooms, we needed a substantial multi-purpose language i.e. Vanilla JavaScript on the frontend with a custom UI, WebSockets using Node.js, Express, and Socket.io  (Socket.IO is a library that enables real-time, bidirectional, and event-based communication between the browser and the server. It consists of: a Node. js server: Source | API. )
 
 We have also used NPM (Node Packet Manager) which greatly helped us with our Node development.
 
 
-#### Screenshots/Demo Video
+### 🔶 Screenshots/Demo Video
 
 ![IMG-20210327-WA0007](https://user-images.githubusercontent.com/49956754/112720435-47bb8b80-8f24-11eb-9c2c-34c891ecbb38.jpg)
 ![IMG-20210327-WA0008](https://user-images.githubusercontent.com/49956754/112720438-4ab67c00-8f24-11eb-984f-8fb546bf3b89.jpg)
 <img src = "https://user-images.githubusercontent.com/49956754/112720440-4d18d600-8f24-11eb-89fc-03904b48b873.jpg" width="200px"  height="400px" >
 <img src = "https://user-images.githubusercontent.com/56124265/112730529-1066d200-8f58-11eb-9b1c-555831ee52bb.jpeg" width="200px"  height="400px" >
 
-#### VIDEO-DEMO
+### 🔶 DEMO-VIDEO
 
 https://drive.google.com/file/d/1z7_Lbie92nvVmbfC6dCJ6UsiQCqorv11/view?usp=sharing - Video Drive Link
 
 https://youtu.be/7idB_9-gWp8 - Youtube Link
 
-#### Usage
+### 🔶 Usage
 
 Follow these steps to set-up our web app on your local device.
 
@@ -77,6 +77,11 @@ Step-4: npm run dev <br>
 Step-5: Go to localhost:3000 <br>
 
 
+<hr>
+<p align="justify">
+  Thank You ❤️
+</p>
+<hr>
 
 
 
