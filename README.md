@@ -58,7 +58,9 @@ We have also used NPM (Node Packet Manager) which greatly helped us with our Nod
 ![IMG-20210327-WA0013](https://user-images.githubusercontent.com/49956754/112720440-4d18d600-8f24-11eb-89fc-03904b48b873.jpg)
 #### VIDEO-DEMO
 
-https://drive.google.com/file/d/1z7_Lbie92nvVmbfC6dCJ6UsiQCqorv11/view?usp=sharing
+https://drive.google.com/file/d/1z7_Lbie92nvVmbfC6dCJ6UsiQCqorv11/view?usp=sharing - Video Drive Link
+
+https://youtu.be/7idB_9-gWp8 - Youtube Link
 
 #### Usage
 
