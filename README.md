@@ -76,6 +76,14 @@ Step-3: npm install -D nodemon <br>
 Step-4: npm run dev <br>
 Step-5: Go to localhost:3000 <br>
 
+You can use the link in about Section to use the App, without even setting up the code.
+
+### Tracks Used
+We did not choose any specific track for creating our web App.
+
+### AWS Services Used
+We have not used any AWS Services for our Web App.
+
 
 <hr>
 <p align="justify">
